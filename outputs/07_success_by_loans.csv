@@ -1,0 +1,6 @@
+has_housing_loan,has_personal_loan,contacts,success_rate_pct
+yes,no,17880,11.73
+yes,yes,3691,11.08
+no,no,16058,10.9
+unknown,unknown,990,10.81
+no,yes,2557,10.72
